@@ -22,7 +22,7 @@ A jupyter notebook in the reposirtory named student.ipynb with a deep dive into 
 
 Certain aircraft configurations consistently demonstrate lower risk exposure.
 
-Operational context (commercial vs private) materially impacts safety outcomes.
+Operational context (commercial vs private) materially impacts safety outcomes and should influence acquisition decisions. 
 
 Simpler, well-established aircraft platforms reduce early-stage operational risk.
 
