@@ -7,7 +7,7 @@ The analysis focuses on identifying aircraft types with lower operational and sa
 
 **BUSINESS OBJECTIVE AND DATA**
 
-The goal of this project is to translate historical aviation accident and safety data from National Transportation Safety Board that contains aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters into actionable insights that can guide leadership in selecting aircraft with reduced risk exposure during the initial phase of market entry.
+The goal of this project is to translate historical aviation accident and safety data from National Transportation Safety Board that contains aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters into actionable insights that can guide leadership in selecting aircraft with reduced risk exposure during the initial phase of market entry. The dataset used in the analysis can be found in the data folder present in this repository.
 
 **KEY OUTPUTS** 
 
